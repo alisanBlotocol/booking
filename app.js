@@ -33,5 +33,5 @@ mongoose
     });
 
 app.listen(3000,() => {
-    console.log('now listening to port 3000');   
+    console.log(err,'now listening to port 4000');   
 });
